@@ -1,0 +1,11 @@
+{
+	"ios": {
+		"name": "miniproBasic"
+	},
+	"android": {
+		"name": "miniproBasic"
+	},
+	"common": {
+		"name": "miniproBasic"
+	}
+}
